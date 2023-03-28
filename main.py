@@ -3,6 +3,7 @@ from snake import Snake
 import time
 from food import Food
 
+# screen window config
 screen = Screen()
 screen.setup(width=600, height=600)
 screen.bgcolor("black")
